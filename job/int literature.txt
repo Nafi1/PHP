@@ -1,0 +1,12 @@
+<?php
+$number1 = -123;//negative 
+$number2 = 123;//decimal
+$number3 = 013;//octal 
+$number4 = 0x12;//hexadecimal
+$number5 = 0b11;//binary
+var_dump($number1); 
+var_dump($number2); 
+var_dump($number3);
+var_dump($number4);
+var_dump($number5); 
+?>

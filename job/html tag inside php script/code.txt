@@ -1,0 +1,18 @@
+<?php  
+$e=70;  
+$f=50;  
+$g=60;
+$h=80;
+$a="Imtiaz";  
+$b="Hasanuzzaman";  
+$c="Shahin";
+$d="Mondol";
+echo "<table border=1 cellspacing=0 cellpading=0> 
+<tr>
+<th> Name </th> <th> Number </th</tr>
+<tr> <td>$a</td> <td>$e</font></td></tr>   
+<tr> <td>$b</td> <td>$f</font></td></tr>  
+<tr> <td>$c</td> <td>$g</font></td></tr>
+<tr> <td>$d</td> <td>$h</font></td></tr>    
+</table>";  
+?>

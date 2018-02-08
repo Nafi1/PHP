@@ -1,0 +1,9 @@
+﻿<?php
+print 'This is "test" string'."<br>";
+printf ('This is "test" string'.'<br>');
+echo "This is 'test' string<br>";
+$s = "dollars";
+echo 'This costs a lot of $s.<br>'; // This costs a lot of $s.
+echo "This costs a lot of $s."; // This costs a lot of dollars.
+?>
+আমার জানা মতে, হযরত জিবরাঈল (আ:)-এর মূল দায়িত্ব ছিল নবী-রাসূলগণের নিকট আল্লাহ্‌র বানী পৌঁছে দেয়া। সে হিসেবে রাসূল(সাঃ)-এর ইন্তেকালের পর সাধারণত তার আর দুনিয়াতে কাজ থাকার কথা না। যেহেতু দাবি করা হচ্ছে আরও ১০ বার দুনিয়াতে এসে বিভিন্ন জিনিস তুলে নেয়া হবে সেহেতু এর সপক্ষে সহিহ দলীল লাগবেই। 

@@ -1,0 +1,4 @@
+Define yourself 8 variables with values. 4 variables must be integer and rest of them are string.
+Now, write a php script to display string with relevant integer value withing a HTML table.
+Sample output in the screenshot.
+Here, the number of Mondol(String) is 80(Integer) 

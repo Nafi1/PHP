@@ -1,0 +1,5 @@
+<?php
+echo ('Webcoachbd'),(' is'),(' nice'),(' site').('<br>');//only echo can
+$exp = print "Hello Bangladesh<br>";//only print can
+var_dump($exp );
+?>

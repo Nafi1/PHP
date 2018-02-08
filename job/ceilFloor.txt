@@ -1,0 +1,19 @@
+<?php
+$x=3.153;
+echo round($x, 1)."<br>";//3.2
+$c=6.13;
+echo(ceil($c) . "<br>");//7
+echo(floor($c) . "<br>");//6
+echo(ceil(0.60) . "<br>");//1
+echo(ceil(0.40) . "<br>");//1
+echo(ceil(5) . "<br>");//5
+echo(ceil(5.1) . "<br>");//6
+echo(ceil(-5.1) . "<br>");//-5
+echo(ceil(-5.9). "<br>");//-5
+echo(floor(0.60) . "<br>");//0
+echo(floor(0.40) . "<br>");//0
+echo(floor(5) . "<br>");//5
+echo(floor(5.1) . "<br>");//5
+echo(floor(-5.1) . "<br>");//-6
+echo(floor(-5.9));//-6
+?>

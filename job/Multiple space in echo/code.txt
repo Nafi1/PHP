@@ -1,0 +1,4 @@
+<?php
+$a=" ";
+echo "nsnjnasjjsa".$a."djbsdsjsjsbjdj"." "."&nbsp;"."&nbsp;"."&nbsp;"."&nbsp;"."&nbsp;"."kndnjsjdjsjd";
+?>

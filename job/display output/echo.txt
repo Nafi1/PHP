@@ -1,0 +1,15 @@
+<?php  
+echo "This is my 1st php page","<br>";
+echo "This is my 2nd php page"."<br>";
+print "This is my 3rd web page"."<br>"; 
+print 'This is my 4th web page'.'<br>'; 
+print 'This is my 5th web page<br>'; 
+echo 'This is my 5th web page<br>'; 
+echo "This "."string "."was ", "made ", "with multiple parameters"."<br>";
+printf ("There are %d article in webcoachbd",250);
+echo "This spans
+multiple lines.The newlines will be
+output as well";
+$d=12;
+echo("number".$d);
+?>

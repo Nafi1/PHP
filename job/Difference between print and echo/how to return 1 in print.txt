@@ -1,0 +1,17 @@
+<?php
+var_dump(print(''));
+echo "<br>",print('');
+?>
+
+
+
+<?php
+$a = "return:"; 
+var_dump(print($a));
+?>
+
+
+<?php
+$n = print("");
+echo $n;
+?>
